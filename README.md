@@ -1,4 +1,3 @@
----
 
 # Quiz Application using Java
 
@@ -10,7 +9,6 @@ This project is a **Quiz Application** developed using **Java Swing and AWT** fr
 - Real-time score calculation and display at the end of the quiz.
 - Error handling for robust performance.
 
----
 
 ## How to Run the Application
 
@@ -40,13 +38,11 @@ To modify or add more questions:
 1. Open the file or section in the code where questions are defined (e.g., an array or a text file).
 2. Update the content to include your own questions and options.
 
----
 
 ## Prerequisites
 - **Java JDK** installed on your system.
 - Basic understanding of Java programming.
 
----
 
 ## Future Enhancements
 - Integrate a database to load questions dynamically.
@@ -54,12 +50,6 @@ To modify or add more questions:
 - Modernize the UI with advanced styling libraries like **JavaFX**.
 - Export scores to a file or share via email.
 
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Login page:
 ![image](https://github.com/user-attachments/assets/cd13b993-3f0e-4ec5-b851-52733543cbb1)
